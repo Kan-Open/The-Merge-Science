@@ -9,7 +9,7 @@ version="${file.jarVersion}" #mandatory Версию воткнем в файл 
 displayName="The Merge Science" #mandatory
 
 # A URL to query for updates for this mod. See the JSON update specification <here>
-updateJSONURL="http://myurl.me/" #optional Нужно указать ссыль на табл с апгрейдами...
+updateJSONURL="http://myurl.me/" #optional Нужно указать ссыль на табл с апгрейдами... chek
 displayURL="https://github.com/Kan-Open/The-Merge-Science" #optional A URL for the "homepage" for this mod, displayed in the mod UI
 logoFile="examplemod.png" #optional A file name (in the root of the mod JAR) containing a logo for display Нужно накалякать иконку мода в фотожопе
 
