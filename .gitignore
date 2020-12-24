@@ -20,6 +20,14 @@ build
 # other
 eclipse
 run
+CREDITS.txt
+.gitattributes
+LICENSE.txt
+README.txt
+changelog.txt
+gradle.properties
+gradlew
+gradlew.bat
 
 # Files from Forge MDK
 forge*changelog.txt
