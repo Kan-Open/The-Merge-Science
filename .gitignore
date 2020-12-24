@@ -30,6 +30,7 @@ gradlew
 gradlew.bat
 gradle
 logs
+build.gradle
 
 # Files from Forge MDK
 forge*changelog.txt
